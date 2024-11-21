@@ -1,0 +1,219 @@
+body
+{
+    font-family: "Inter" ;
+}
+.left-col
+{
+padding-left: 1rem;
+padding-right: 1rem;
+}
+.Heading
+{
+    font-size: 3.4rem;
+    font-weight: 800;
+}
+.Heading span
+{
+    color: #39DB4A;
+}
+@media(max-width:768px)
+{
+    .heading
+    {
+        font-size:2.4rem;
+    }
+}
+.sub_heading
+{
+    color: #4A4A4A;
+    word-spacing:1.2px;
+}
+.btn_play
+{
+    height: 50px;
+    width: 50px;
+    font-size: 2.1rem;   
+}
+.btn-order
+{
+    background-color: #39DB4A;
+    color: white;
+    font-weight: 600;
+    box-shadow: 1px 5px 10px 5px rgba(57, 219, 74, 0.3);
+}
+.btn-watch
+{
+    color: #4A4A4A;
+}
+.categories-box
+{
+border-radius: 27px;
+}
+.Box-0
+{
+    color:  #FF6868;
+}
+.Box-o
+{
+font-size: 2rem;
+font-weight: 700;
+}
+.Box-z
+{
+    color:  #FF6868;
+    padding-top: 5rem;
+}
+.Box-y
+{
+font-size: 2rem;
+font-weight: 700;
+padding-top: 1rem;
+padding-left: 0rem;
+text-align: left;
+}
+.categories-box2
+{
+border-radius: 27px;
+}
+.Categories-Desc
+{
+
+    font-weight: 900;
+}
+.class1
+{
+font-size: 3rem;
+font-weight: 900;
+}
+.btn-explore
+{
+    background-color: #39DB4A;
+    color: white;
+    font-weight: 600;
+    
+}
+.Boxes
+{
+    height: 14rem;
+    width: 13rem;
+    border-radius: 27PX;
+}
+.Boxes1
+{
+ color: #39DB4A; 
+ font-weight: 900;  
+}
+.Boxes2{
+color: #39DB4A;
+}
+.Bbox 
+{
+    height: 20px;
+    width: 20px ;
+    background-color: green;
+    border-radius: 40px;
+    position: absolute;
+    right: 0px;
+}
+.decoration
+{
+    text-decoration: none;
+    color: #555555;
+    text-align: center;
+}
+.dec
+{
+    font-weight: 900;
+}
+.sh
+{
+    height: 38px;
+    width: 38px;
+    border-radius: 100%;
+    background-color: #EDFFEF;
+}
+.sha
+{
+    height: 38px;
+    width: 38px;
+    border-radius: 100%;
+    background-color: #39DB4A;
+    color: #FFFFFF;
+}
+.color
+{
+    color: goldenrod;
+}
+.im
+{
+    height: 20px;
+    width: 20px;
+    
+}
+.Decs
+{
+    line-height: 2;
+}
+.b1
+{
+    background-color: #39DB4A;
+    height: 45px;
+    width: 60px;
+    right: 0px;
+    top: 0px;
+    border-radius:  0% 50%;   
+}
+.star
+{
+    color: #FFE605;
+    
+}
+
+.heart
+{
+    color: white;
+}
+.heart1
+{
+    color: white;
+}
+.ss
+{
+    left: 30px;
+    top: 30px;
+}
+.badge
+{
+    color: white;
+    background-color: #39DB4A;
+    width: 6px;
+    height:6px;
+}
+.btn-contact
+{
+    color: white;
+    background-color: #39DB4A;
+}
+.brand
+{
+    margin-right: 8rem;
+    margin-left: 2.7rem;
+}
+.dollar 
+{
+    color: #FF6868;
+    font-size: 12px;
+}
+.slider1
+{
+height: 50px;
+width: 50px;
+background-color: #EFEFEF;
+}
+.slider2
+{
+    height: 50px;
+    width: 50px;
+    background-color: #39DB4A;
+    
+}
